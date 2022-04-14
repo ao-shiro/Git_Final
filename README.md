@@ -1,3 +1,8 @@
-# Git_Final
-We are a micro-finance startup with a mission to empower and provide opportunities to low income individuals. 
-This is a sample code to calculate simple interest.
+**A calculator that calculates simple interest given principal**, annual rate of interest and time period in years.
+
+**Input:**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;**p,** principal amount
+<br>&nbsp;&nbsp;&nbsp;&nbsp;**t,** time period in years
+<br>&nbsp;&nbsp;&nbsp;&nbsp;**r,** annual rate of interest
+<br>**Output**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;**simple interest** = p\*t\*r
